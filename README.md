@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Basic template for a React Native for Web cross-platform app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
